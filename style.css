@@ -1,0 +1,9 @@
+table,tr,td {
+    border:1px solid black
+}
+.box{
+    border: 4px gray;
+    background-color:blanchedalmond;
+    text-align: center;
+}
+
